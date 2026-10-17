@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "179636ce557f67232d7c57ee",
+  "owner": "usdhgdcf",
+  "repo": "page-8f95f01840a26fa9ebca338d",
+  "title": "闪蓝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f95f01840a26fa9ebca338d",
+      "a": "闪蓝",
+      "b": "",
+      "entity": "闪蓝",
+      "brand": "闪蓝",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9a733f286e3cbdb8915eb66ff4350c57d999b4ff0eb814c02697a59ed217d55f",
+      "content": {
+        "keyword1": "闪蓝",
+        "keyword2": "",
+        "primary_entity": "闪蓝",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "闪蓝提供克制、稳健、优雅的数字网络连接服务，以深棕与薄荷绿的视觉美学，重构您的跨区域数据交互体验。",
+          "AI_DESCRIPTION": "闪蓝提供克制、稳健、优雅的数字网络连接服务，以深棕与薄荷绿的视觉美学，重构您的跨区域数据交互体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #211c18;--panel-bg: #2d2620;--surface: #383029;--mint: #a8f3d0;--mint-dim: #72c4a0;--text: #f0ebe6;--text-muted: #b0a69d;--border: #4a3e36;--accent: #5ef1b3}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.7;letter-spacing: 0.02em}\nheader {border-bottom: 1px solid var(--border);padding: 1.5rem 2rem;background: var(--bg);position: sticky;top: 0;z-index: 10}\n.breadcrumb-nav {max-width: 1200px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem}\n.breadcrumbs {font-size: 0.85rem;color: var(--text-muted);text-transform: uppercase;letter-spacing: 0.1em}\n.breadcrumbs a {color: var(--mint);text-decoration: none}\n.nav-links {display: flex;gap: 1.5rem;font-size: 0.9rem}\n.nav-links a {color: var(--text);text-decoration: none;transition: color 0.2s}\n.nav-links a:hover {color: var(--mint)}\nmain {max-width: 1200px;margin: 0 auto;padding: 4rem 2rem}\nsection {margin-bottom: 6rem}\n.hero {display: grid;grid-template-columns: 1.2fr 0.8fr;gap: 4rem;align-items: center;min-height: 70vh}\n@media (max-width: 900px) {\n  .hero {grid-template-columns: 1fr;gap: 2rem;min-height: auto}\n}\n.hero-content h1 {font-size: clamp(3rem, 6vw, 5rem);font-weight: 300;color: var(--mint);margin-bottom: 1.5rem;letter-spacing: -0.03em;line-height: 1.1}\n.hero-content p {font-size: 1.15rem;color: var(--text-muted);margin-bottom: 2.5rem;max-width: 500px}\n.hero-actions {display: flex;gap: 1rem}\n.btn {display: inline-block;padding: 0.9rem 2rem;background: var(--mint);color: var(--bg);font-weight: 600;text-decoration: none;border-radius: 2px;transition: opacity 0.2s}\n.btn:hover {opacity: 0.9}\n.btn-outline {background: transparent;color: var(--mint);border: 1px solid var(--mint-dim)}\n.hero-panel {background: var(--panel-bg);border: 1px solid var(--border);padding: 3rem;border-radius: 4px;position: relative}\n.hero-panel h3 {font-size: 1.1rem;color: var(--mint);margin-bottom: 1rem;text-transform: uppercase;letter-spacing: 0.05em}\n.hero-panel ul {list-style: none}\n.hero-panel li {padding: 0.75rem 0;border-bottom: 1px solid var(--border);font-size: 0.95rem;color: var(--text-muted);display: flex;justify-content: space-between}\n.hero-panel li:last-child {border-bottom: none}\n.section-title {font-size: 2rem;font-weight: 300;color: var(--text);margin-bottom: 1.5rem;letter-spacing: -0.02em}\n.section-desc {color: var(--text-muted);margin-bottom: 3rem;max-width: 600px}\n.plans-stack {display: flex;flex-direction: column;gap: 2rem}\n.plan-card {background: var(--panel-bg);border: 1px solid var(--border);padding: 3rem;border-radius: 4px;position: relative;overflow: hidden;display: grid;grid-template-columns: 2fr 1fr;gap: 2rem;align-items: center}\n@media (max-width: 768px) {\n  .plan-card {grid-template-columns: 1fr;padding: 2rem}\n}\n.plan-card.featured {border-color: var(--mint-dim)}\n.plan-bg-num {position: absolute;right: -10px;bottom: -40px;font-size: 12rem;font-weight: 900;color: rgba(255, 255, 255, 0.02);pointer-events: none;line-height: 1}\n.plan-info h3 {font-size: 1.75rem;color: var(--mint);margin-bottom: 0.5rem;font-weight: 400}\n.plan-features {list-style: none;margin-top: 1.5rem}\n.plan-features li {padding: 0.4rem 0;color: var(--text-muted);font-size: 0.95rem}\n.plan-features li::before {content: \"— \";color: var(--mint-dim)}\n.plan-pricing {text-align: right;display: flex;flex-direction: column;align-items: flex-end;gap: 1rem}\n@media (max-width: 768px) {\n  .plan-pricing {text-align: left;align-items: flex-start}\n}\n.price-main {font-size: 2.5rem;color: var(--text);font-weight: 300}\n.price-annual {font-size: 0.85rem;color: var(--mint-dim)}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.feature-card {background: var(--panel-bg);border: 1px solid var(--border);padding: 2.5rem;border-radius: 4px;position: relative;overflow: hidden}\n.feature-card .plan-bg-num {font-size: 8rem}\n.feature-card h3 {font-size: 1.25rem;color: var(--mint);margin-bottom: 1rem;font-weight: 400}\n.feature-card p {color: var(--text-muted);font-size: 0.95rem}\n.faq-container {display: flex;flex-direction: column;gap: 1rem;max-width: 800px}\n.faq-item {background: var(--panel-bg);border: 1px solid var(--border);border-radius: 4px;overflow: hidden}\n.faq-item summary {padding: 1.5rem 2rem;cursor: pointer;font-size: 1.05rem;color: var(--text);user-select: none;list-style: none;display: flex;justify-content: space-between;align-items: center}\n.faq-item summary::-webkit-details-marker {display: none}\n.faq-item summary::after {content: \"+\";color: var(--mint);font-size: 1.5rem;font-weight: 300}\n.faq-item[open] summary::after {content: \"—\"}\n.faq-content {padding: 0 2rem 1.5rem 2rem;color: var(--text-muted);font-size: 0.95rem;border-top: 1px solid var(--border);padding-top: 1.5rem}\nfooter {border-top: 1px solid var(--border);padding: 4rem 2rem;text-align: center;color: var(--text-muted);font-size: 0.9rem}\nfooter p {margin-bottom: 0.5rem}\n</style><header>\n  <div class=\"breadcrumb-nav\">\n    <div class=\"breadcrumbs\">\n      <a href=\"#\">首页</a> / <span>数字架构</span> / <strong>闪蓝</strong>\n    </div>\n    <nav class=\"nav-links\">\n      <a href=\"#overview\">架构概览</a>\n      <a href=\"#plans\">服务套餐</a>\n      <a href=\"#features\">设计特性</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n</header>\n\n<main>\n  <h1>闪蓝数字网络连接服务</h1>\n  \n  <section class=\"hero\">\n    <div class=\"hero-content\">\n      <h2>闪蓝</h2>\n      <p>在纷繁复杂的网络空间中，闪蓝提供安静、克制且高度优化的数据交互通道。以深棕与薄荷绿的工业美学，重塑您对远端节点连接的全然掌控。</p>\n      <div class=\"hero-actions\">\n        <a href=\"#plans\" class=\"btn\">探索套餐选项</a>\n        <a href=\"#faq\" class=\"btn btn-outline\">查阅连接指引</a>\n      </div>\n    </div>\n    <div class=\"hero-panel\">\n      <h3>核心运行参数</h3>\n      <ul>\n        <li><span>架构模式</span> <span>分布式加密专线</span></li>\n        <li><span>节点布局</span> <span>多地域冗余备份</span></li>\n        <li><span>协议响应</span> <span>低延迟智能分流</span></li>\n        <li><span>在线支持</span> <span>多层级工单闭环</span></li>\n      </ul>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">服务套餐</h2>\n    <p class=\"section-desc\">为不同阶段的数字需求提供准确匹配的资源配额与技术支持层级。</p>\n    \n    <div class=\"plans-stack\">\n      <div class=\"plan-card\">\n        <div class=\"plan-bg-num\">01</div>\n        <div class=\"plan-info\">\n          <h3>基础版</h3>\n          <p>面向常规数据交互需求，满足轻量化跨区域访问与日常查阅。</p>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div>\n            <div class=\"price-main\">¥15/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥150/年</div>\n          </div>\n          <a href=\"#faq\" class=\"btn btn-outline\">选择基础版</a>\n        </div>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"plan-bg-num\">02</div>\n        <div class=\"plan-info\">\n          <h3>旗舰版</h3>\n          <p>针对高强度跨国协作与流媒体解锁深度优化的全能配置。</p>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div>\n            <div class=\"price-main\">¥35/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥350/年</div>\n          </div>\n          <a href=\"#faq\" class=\"btn\">选择旗舰版</a>\n        </div>\n      </div>\n\n      <div class=\"plan-card\">\n        <div class=\"plan-bg-num\">03</div>\n        <div class=\"plan-info\">\n          <h3>团队版</h3>\n          <p>为团队与小型机构打造的专属高速带宽与企业级定制通道。</p>\n          <ul class=\"plan-features\">\n            <li>每月 1000GB 极速流量</li>\n            <li>支持 20 台设备同时在线</li>\n            <li>VIP 专属高带宽节点</li>\n            <li>支持企业定制路由</li>\n            <li>专属客户经理服务</li>\n          </ul>\n        </div>\n        <div class=\"plan-pricing\">\n          <div>\n            <div class=\"price-main\">¥85/月</div>\n            <div class=\"price-annual\">按年付仅需 ¥850/年</div>\n          </div>\n          <a href=\"#faq\" class=\"btn btn-outline\">选择团队版</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"features\">\n    <h2 class=\"section-title\" id=\"overview\">设计哲学与特性</h2>\n    <p class=\"section-desc\">每一个细节都经过严密推敲，确保连接的可靠性、隐私性与持续稳定性。</p>\n    \n    <div class=\"features-grid\">\n      <div class=\"feature-card\">\n        <div class=\"plan-bg-num\">A</div>\n        <h3>克制的美学</h3>\n        <p>摒弃喧嚣的营销噪音，将全部算力与带宽投入到数据传输的效率与纯净度之中。</p>\n      </div>\n      <div class=\"feature-card\">\n        <div class=\"plan-bg-num\">B</div>\n        <h3>专线级优化</h3>\n        <p>精选高质量骨干网与专线节点，在复杂多变的网络环境中保持出色的低延迟表现。</p>\n      </div>\n      <div class=\"feature-card\">\n        <div class=\"plan-bg-num\">C</div>\n        <h3>隐私防护</h3>\n        <p>严格保护传输过程中的数据安全与访问轨迹，不记录任何非必要的本地日志。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见问题引导</h2>\n    <p class=\"section-desc\">关于连接方式、账户配额与技术支持的常见疑问解答。</p>\n    \n    <div class=\"faq-container\">\n      <details class=\"faq-item\">\n        <summary>如何开始使用闪蓝的网络连接服务？</summary>\n        <div class=\"faq-content\">\n          您只需选择适合当前需求的套餐并完成配置，系统将自动生成对应的专属接入凭证。随后可根据指引在主流客户端中导入并建立安全连接。\n        </div>\n      </details>\n      \n      <details class=\"faq-item\">\n        <summary>不同套餐之间的流量可以跨月累加吗？</summary>\n        <div class=\"faq-content\">\n          每个计费周期的流量额度会在周期重置时刷新，未用完的流量不会累积至下一个周期。建议根据日常实际消耗选择最合理的套餐配置。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>旗舰版与团队版的 IPLC 专线有何具体优势？</summary>\n        <div class=\"faq-content\">\n          IPLC 专线绕过了公共互联网的拥堵节点，直接通过点对点物理专线进行数据传输，能够显著降低跨国传输的抖动与延迟，特别适合对实时性要求极高的场景。\n        </div>\n      </details>\n\n      <details class=\"faq-item\">\n        <summary>如果在使用过程中遇到连接障碍该如何处理？</summary>\n        <div class=\"faq-content\">\n          您可以随时查阅帮助文档进行基础排查。若问题仍未解决，旗舰版与团队版用户可通过工单系统联系 7x24 小时技术支持获取协助。\n        </div>\n      </details>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <p>© 闪蓝 (ShanLan). 保留所有权利。</p>\n  <p>纯粹、稳健的数字网络连接服务构架者。</p>\n</footer>",
+          "hash": "2d82d70d97f27d6b36b93c5eb064a9f6d6b77fc8dd7840e03ffbcdb5bdc90b91",
+          "seo": {
+            "title": "闪蓝 - 极简主义网络连接与数字基础设施服务",
+            "keywords": "闪蓝,数字基础设施,网络连接,专线优化,企业定制路由",
+            "description": "闪蓝提供克制、稳健、优雅的数字网络连接服务，以深棕与薄荷绿的视觉美学，重构您的跨区域数据交互体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7648",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xbkkx.cn",
+    "host": "p-f5c2b43a0c.xbkkx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0ddf2f89a2573113440704331569272d6b959dc6d23c5d7ee93c722443f49f3b",
+    "sitemap.xml": "43227e6182e70c0d77fa55c0cf671302159ccef8cb16f9face6389cbd254e2cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a41e51b7dc12a24671d9623588f36a3714ee94e20ddb01200a7b28469852aecd",
+    "robots.txt": "99f54e5685c055b48026b2800c7ba2fd6f2a5d442837afdd6c24b69e17e957cc",
+    "4b4f486b63f637f100a20808114bcc93.txt": "a57ecefa29bf876274d9793e6daba24c99c01f10ba95e8a10be1e31713981114"
+  },
+  "revision": "cd882ee77c1d4ef98534e155a352c4e47e099fcdcc7ff0d4ce066f9f010769dc"
+}
